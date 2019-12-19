@@ -1,0 +1,50 @@
+.headerSecured-container{
+background: #1A49c4;
+}
+.headerSecuredDesktop-logo{
+background: #1A49c4;
+}
+#ptSidebar{
+background: #1A49c4;
+}
+.sidebar-btn-compose::before{
+content: "🖅";
+font-size: 1.7em;
+vertical-align: middle;
+font-weight: bolder;
+color:whitesmoke;
+}
+.sidebar-btn-compose{
+background: #0c752b !important;
+font-weight: bold;
+}
+#pm_composer .composer{
+box-shadow: 5px -10px 80px rgba(0,0,0,0.6) !important;
+}
+.composerHeader-container{
+background: #000088;
+}
+.subjectRow::before{
+content: "Subject:";
+color: red;
+border-right: solid 2px #000080;
+padding-right: 3px;
+}
+.composer-btn-send{
+background: #000080 !important;
+}
+.composer-btn-send::before{
+ content: "🖅";
+font-size: 1.2em;
+
+padding-right: 3px;
+font-weight: bolder;
+}
+.composer-btn-discard{
+ background: #AA0000 !important;
+ color: #FFFFFF;
+}
+.composer-btn-save{
+ background: #009900 !important;
+ color: #FFFFFF;
+}
