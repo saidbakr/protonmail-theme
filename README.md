@@ -9,3 +9,6 @@ Copy the css code found in any CSS file in the repo. and paste it Custom Theme t
  4. Scroll down to section named **Custom theme**.
  5. Copy the CSS code found in any CSS file you chose in the repo. nd paste it in the textarea in **Custom theme** section.
  6. Click the button **SAVE**.
+ 
+ 
+ ![Screenshot with css in blue.css](screenshot.png)
